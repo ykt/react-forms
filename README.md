@@ -28,7 +28,7 @@ state. Some might put form value in a Flux store instead.
         firstName: {type: 'string'},
         lastName: {type: 'string'}
       }
-    })
+    }
 
     class Form extends React.Component {
 
